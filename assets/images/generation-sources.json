@@ -1,0 +1,66 @@
+{
+  "method": "built-in image_gen",
+  "promptSet": "PROMPTS-IMAGENS.md",
+  "assets": [
+    {
+      "id": "IMG-01",
+      "name": "hero-justica",
+      "source": "C:\\Users\\Gamer\\.codex\\generated_images\\01a13bfb-4769-7231-a6f5-2a4ecd8dc394\\exec-b4fe8e34-556d-4792-a168-9209a0f5cf1e.png",
+      "file": "hero-justica.png"
+    },
+    {
+      "id": "IMG-02",
+      "name": "equipe-01",
+      "source": "C:\\Users\\Gamer\\.codex\\generated_images\\01a13bfb-4769-7231-a6f5-2a4ecd8dc394\\exec-c971637b-e245-434e-b7e1-370aee5b1208.png",
+      "file": "equipe-01.webp"
+    },
+    {
+      "id": "IMG-03",
+      "name": "equipe-02",
+      "source": "C:\\Users\\Gamer\\.codex\\generated_images\\01a13bfb-4769-7231-a6f5-2a4ecd8dc394\\exec-d6facc10-e12d-44fd-89b0-ebb5d333f09d.png",
+      "file": "equipe-02.webp"
+    },
+    {
+      "id": "IMG-04",
+      "name": "equipe-03",
+      "source": "C:\\Users\\Gamer\\.codex\\generated_images\\01a13bfb-4769-7231-a6f5-2a4ecd8dc394\\exec-b7d6f6f4-2d3f-41c8-9010-31b780f31c82.png",
+      "file": "equipe-03.webp"
+    },
+    {
+      "id": "IMG-05",
+      "name": "equipe-04",
+      "source": "C:\\Users\\Gamer\\.codex\\generated_images\\01a13bfb-4769-7231-a6f5-2a4ecd8dc394\\exec-689aca1b-8bb6-489a-995d-d77b83ddd78d.png",
+      "file": "equipe-04.webp"
+    },
+    {
+      "id": "IMG-06",
+      "name": "equipe-05",
+      "source": "C:\\Users\\Gamer\\.codex\\generated_images\\01a13bfb-4769-7231-a6f5-2a4ecd8dc394\\exec-b111c18f-b548-4fca-8933-9a5fcba80d11.png",
+      "file": "equipe-05.webp"
+    },
+    {
+      "id": "IMG-07",
+      "name": "branding-mesa-juridica",
+      "source": "C:\\Users\\Gamer\\.codex\\generated_images\\01a13bfb-4769-7231-a6f5-2a4ecd8dc394\\exec-b7403c85-1009-4793-85a8-0eb06c08ffe0.png",
+      "file": "branding-mesa-juridica.webp"
+    },
+    {
+      "id": "IMG-08",
+      "name": "branding-martelo",
+      "source": "C:\\Users\\Gamer\\.codex\\generated_images\\01a13bfb-4769-7231-a6f5-2a4ecd8dc394\\exec-8a0d9bb2-3d7a-47aa-b335-6b92e665f3eb.png",
+      "file": "branding-martelo.webp"
+    },
+    {
+      "id": "IMG-09",
+      "name": "branding-balanca",
+      "source": "C:\\Users\\Gamer\\.codex\\generated_images\\01a13bfb-4769-7231-a6f5-2a4ecd8dc394\\exec-9f6043cc-1e82-43bf-8083-571ddce1afed.png",
+      "file": "branding-balanca.webp"
+    },
+    {
+      "id": "IMG-10",
+      "name": "branding-justica-biblioteca",
+      "source": "C:\\Users\\Gamer\\.codex\\generated_images\\01a13bfb-4769-7231-a6f5-2a4ecd8dc394\\exec-59af4236-b14d-4de4-91f3-b28ec2c182c6.png",
+      "file": "branding-justica-biblioteca.webp"
+    }
+  ]
+}
